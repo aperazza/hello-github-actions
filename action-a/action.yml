@@ -11,7 +11,7 @@ inputs:
   DATE:
     description: "Date"
     required: True
-    default: "n/a"
+    default: "ABCDEF"
 
 runs:
   using: "docker"
