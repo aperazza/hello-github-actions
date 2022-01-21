@@ -7,6 +7,11 @@ inputs:
     description: "Who to greet"
     required: True
     default: "World"
+  
+  DATE:
+    description: "Date"
+    required: False
+    default: "n/a"
 
 runs:
   using: "docker"
