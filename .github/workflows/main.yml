@@ -10,3 +10,4 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Alex"
+          DATE: "21.01.2022"
