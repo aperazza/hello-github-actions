@@ -10,7 +10,7 @@ inputs:
   
   DATE:
     description: "Date"
-    required: False
+    required: True
     default: "n/a"
 
 runs:
